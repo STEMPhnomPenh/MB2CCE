@@ -5,3 +5,5 @@ Design files and example code for MB2 Cambodian Custom Edition robot.
 
 /electronic contains design documentation for electronic components including schematic diagrams, gerbers and graphical PCB layouts.
 
+/snippets contains small snippets of example code for various control applications available via local.mirobot.io, as well as pictures of graphical coding examples.
+
